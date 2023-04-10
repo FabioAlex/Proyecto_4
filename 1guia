@@ -1,0 +1,19 @@
+//Tipos de formalarios
+<from>
+	<imput type="text">//Caulquier dato
+	<imput type="password">//Contraseña
+	<imput type="number">//Solo permite escribir numeros
+	<imput type="email">//Correo
+	<imput type="color">//
+	<imput type="range"min="1"max="10">//Permite programar un rango de numeros
+	<imput type="date">//Fecha
+	<imput type="time">//Hora
+	<imput type="button"value="Boton">//Crear un boton
+	<imput type="submit">//Boton de einviar
+</from>
+//Atributos
+<from>
+  <imput type="text" required>//Hace obligatirio llenar el campo
+	<textarea></textarea> //Caudro de texto  
+</from>
+//Metadatos: estos se ponen despues del titulo y lo que se ponga en ellas es iportante para el seo
